@@ -14,7 +14,7 @@
 
 Hi there! Welcome to the 1845 S Michigan dashboard!
 
-To get you started, check out the [development server](https://b1845michigan-frastr.c9.io/).
+To get you started, check out the [development server](https://d1845michigan-frastr.c9.io/).
 
 ## Features
 - Tenant Profiles
